@@ -1,0 +1,15 @@
+/Users/nebednyy/work/demo-project/demo-project/bin/Debug/net8.0/demo-project
+/Users/nebednyy/work/demo-project/demo-project/bin/Debug/net8.0/demo-project.deps.json
+/Users/nebednyy/work/demo-project/demo-project/bin/Debug/net8.0/demo-project.runtimeconfig.json
+/Users/nebednyy/work/demo-project/demo-project/bin/Debug/net8.0/demo-project.dll
+/Users/nebednyy/work/demo-project/demo-project/bin/Debug/net8.0/demo-project.pdb
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.AssemblyInfoInputs.cache
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.AssemblyInfo.cs
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.csproj.CoreCompileInputs.cache
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.sourcelink.json
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.dll
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/refint/demo-project.dll
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.pdb
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/demo-project.genruntimeconfig.cache
+/Users/nebednyy/work/demo-project/demo-project/obj/Debug/net8.0/ref/demo-project.dll
